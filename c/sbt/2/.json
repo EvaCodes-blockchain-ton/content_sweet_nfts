@@ -1,0 +1,14 @@
+{
+  "name": "Sweet SBT #3",
+  "description": "Sweet Soul-Bound Token #3",
+  "image": "https://raw.githubusercontent.com/EvaCodes-blockchain-ton/content_sweet_nfts/master/c/sbt/2/.png",
+  "attributes": [
+    {
+      "trait_type": "Game",
+      "value": "Soccer"
+    }, {
+      "trait_type": "Style",
+      "value": "Chibi Balls"
+    }
+  ]
+}
